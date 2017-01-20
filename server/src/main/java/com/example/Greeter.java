@@ -13,7 +13,7 @@ public class Greeter {
   }
 
   /**
-   * someone edited this line
+   * someone edited this line.
    */
 
   public final String greet(final String someone) {
